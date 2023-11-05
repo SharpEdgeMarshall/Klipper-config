@@ -1,0 +1,25 @@
+a_dist 74
+far_b_dist 74.46
+c_dist 74.3
+far_a_dist 73.88
+b_dist 74.1
+far_c_dist 74.38
+
+DELTA_ANALYZE CENTER_DISTS=74,74.38,74.1,73.88,74.3,74.46
+
+a_to_far_c 74.3
+far_c_to_b 73.68
+b_to_far_a 74.29
+far_a_to_c 74.22
+c_to_far_b 73.9
+far_b_to_a 74.24
+
+DELTA_ANALYZE OUTER_DISTS=74.3,73.68,74.29,74.22,73.9,74.24
+
+
+DELTA_ANALYZE CENTER_PILLAR_WIDTHS=9.1,9.1,9.1
+
+
+
+
+DELTA_ANALYZE OUTER_PILLAR_WIDTHS=9.1,8.92,9.2,8.88,9.13,9.04
